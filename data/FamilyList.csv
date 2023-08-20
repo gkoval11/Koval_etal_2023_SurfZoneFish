@@ -1,0 +1,79 @@
+Family,Genus,Species,Sci_Name,Type,Subtype,Common_Name,Feeding,Targeted
+Atherinopsidae,Atherinops,affinis,Atherinops affinis,Fish,Silverside,Topsmelt,microcarnivore,Targeted
+Atherinopsidae,Atherinops,spp,Atherinops spp,Fish,Silverside,Unknown Silverside,microcarnivore,Targeted
+Aulorhynchidae,Aulorhynchus,flavidus,Aulorhynchus flavidus,Fish,Tubesnout,Tube-snout,planktivore,Nontargeted
+Belonidae,Strongylura,exilis,Strongylura exilis,Fish,Needlefish,Californian Needlefish,piscivore,Nontargeted
+Blepharipodidae,Blepharipoda,occidentalis,Blepharipoda occidentalis,Invertebrate,Sandcrab,Spiny Sand Crab,planktivore,Nontargeted
+Cancridae,Metacarcinus,gracilis,Metacarcinus gracilis,Invertebrate,Crab,Slender Crab,microcarnivore,Targeted
+Cancridae,Metacarcinus,magister,Metacarcinus magister,Invertebrate,Crab,Dungeness Crab,microcarnivore,Targeted
+Cancridae,Metacarcinus,productus,Metacarcinus productus,Invertebrate,Crab,Red Rock Crab,microcarnivore,Targeted
+Cancridae,Metacarcinus,spp,Metacarcinus spp,Invertebrate,Crab,Unknown Crab,microcarnivore,Targeted
+Clinidae,Gibbonsia,montereyensis,Gibbonsia montereyensis,Fish,Blennies,Crevice kelpfish,microcarnivore,Nontargeted
+Clupeidae,Sardinops,sagax,Sardinops sagax,Fish,Anchovies,Pacific Sardine,planktivore,Targeted
+Clupeidae,Sardinops,spp,Sardinops spp,Fish,Anchovies,Unknown Sardine,planktivore,Targeted
+Cottidae,Leptocottus,armatus,Leptocottus armatus,Fish,Sculpin,Pacific Staghorn Sculpin,microcarnivore,Nontargeted
+Cottidae,.,spp,NA,Fish,Sculpin,Unknown Sculpin,microcarnivore,Nontargeted
+Cottidae,Scorpaenichthys,marmoratus,Scorpaenichthys marmoratus,Fish,Sculpin,Cabezon,macrocarnivore,Targeted
+Embiotocidae,Amphistichus,argenteus,Amphistichus argenteus,Fish,Surfperch,Barred Surfperch,macrocarnivore,Targeted
+Embiotocidae,Amphistichus,koelzi,Amphistichus koelzi,Fish,Surfperch,Calico Surfperch,macrocarnivore,Targeted
+Embiotocidae,Brachyistius,frenatus,Brachyistius frenatus,Fish,Surfperch,Kelp Perch,microcarnivore,Nontargeted
+Embiotocidae,Cymatogaster,aggregata,Cymatogaster aggregata,Fish,Surfperch,Shiner Perch,microcarnivore,Targeted
+Embiotocidae,Embiotoca,jacksoni,Embiotoca jacksoni,Fish,Surfperch,Black Perch,macrocarnivore,Targeted
+Embiotocidae,Embiotoca,lateralis,Embiotoca lateralis,Fish,Surfperch,Striped Surfperch,macrocarnivore,Targeted
+Embiotocidae,Hyperprosopon,anale,Hyperprosopon anale,Fish,Surfperch,Spotfin Surfperch,microcarnivore,Targeted
+Embiotocidae,Hyperprosopon,argenteum,Hyperprosopon argenteum,Fish,Surfperch,Walleye Surfperch,macrocarnivore,Targeted
+Embiotocidae,Hyperprosopon,ellipticum,Hyperprosopon ellipticum,Fish,Surfperch,Silver Surfperch,macrocarnivore,Targeted
+Embiotocidae,Hypsurus,caryi,Hypsurus caryi,Fish,Surfperch,Rainbow Seaperch,macrocarnivore,Targeted
+Embiotocidae,Micrometrus,aurora,Micrometrus aurora,Fish,Surfperch,Reef Perch,microcarnivore,Nontargeted
+Embiotocidae,Micrometrus,minimus,Micrometrus minimus,Fish,Surfperch,Dwarf Perch,microcarnivore,Nontargeted
+Embiotocidae,Phanerodon,furcatus,Phanerodon furcatus,Fish,Surfperch,White Seaperch,macrocarnivore,Targeted
+Embiotocidae,Rhacochilus,toxotes,Rhacochilus toxotes,Fish,Surfperch,Rubberlip Seaperch,macrocarnivore,Targeted
+Embiotocidae,Rhacochilus,vacca,Rhacochilus vacca,Fish,Surfperch,Pile Perch,macrocarnivore,Targeted
+Epialtidae,Loxorhynchus,crispatus,Loxorhynchus crispatus,Invertebrate,Crab,Decorator Crab,herbivore,Nontargeted
+Epialtidae,Pugettia,producta,Pugettia producta,Invertebrate,Crab,Northern Kelp Crab,herbivore,Nontargeted
+Epialtidae,Pugettia,spp,Pugettia spp,Invertebrate,Crab,Unknown Kelp Crab,herbivore,Nontargeted
+Gaviidae,Gavia,stellata,Gavia stellata,Bird,Loon,Red-Throated Loon,piscivore,Nontargeted
+Hexagrammidae,.,spp,NA,Fish,Greenling,Unknown Greenling,macrocarnivore,Targeted
+Hexagrammidae,Ophiodon,elongatus,Ophiodon elongatus,Fish,Greenling,Lingcod,macrocarnivore,Targeted
+Hippidae,Emerita,analoga,Emerita analoga,Invertebrate,Sandcrab,Pacific Sandcab,planktivore,Targeted
+Hominidae,Homo,sapiens,Homo sapiens,Mammal,Human,Human,NA,Nontargeted
+Labridae,Halichoeres,semicinctus,Halichoeres semicinctus,Fish,Wrasse,Rock Wrasse,microcarnivore,Nontargeted
+Labridae,Oxyjulis,californica,Oxyjulis californica,Fish,Wrasse,Senorita,microcarnivore,Nontargeted
+Littorinidae,.,spp,NA,Invertebrate,Snail,Unknown Sea Snail,herbivore,NA
+Moronidae,Morone,saxatilis,Morone saxatilis,Fish,Bass,Striped Bass,piscivore,Targeted
+Myliobatidae,Myliobatis,californica,Myliobatis californica,Fish,Ray,Bat Ray,macrocarnivore,Nontargeted
+NOSP,NOSP,NOSP,NOSP NOSP,None,None,No Species,NA,NA
+Olividae,Callianax,biplicata,Callianax biplicata,Invertebrate,Snail,Purple Dwarf Olive Snail,planktivore,Nontargeted
+Otariidae,Zalophus,californianus,Zalophus californianus,Mammal,Sea Lion,California Sea Lion,macrocarnivore,Nontargeted
+Paguridae,Pagurus,spp,Pagurus spp,Invertebrate,Crab,Unknown Hermit Crab,microcarnivore,NA
+Pandalidae,Pandalus,spp,Pandalus spp,Invertebrate,Shrimp,Unknown Shrimp,planktivore,Targeted
+Paralichthyidae,Citharichthys,stigmaeus,Citharichthys stigmaeus,Fish,Flatfish,Speckled Sanddab,microcarnivore,Nontargeted
+Paralichthyidae,.,spp,NA,Fish,Flatfish,Unknown Flatfish,microcarnivore,Targeted
+Paralichthyidae,Paralichthys,californicus,Paralichthys californicus,Fish,Flatfish,California Halibut,macrocarnivore,Targeted
+Pelagiidae,Chrysaora,fuscescens,Chrysaora fuscescens,Invertebrate,Jellyfish,Pacific Sea Nettle,microcarnivore,Nontargeted
+Phalacrocoracidae,Urile,pelagicus,Urile pelagicus,Bird,Commorant,Pelagic Cormmorant,piscivore,Nontargeted
+Phocidae,Phoca,vitulina,Phoca vitulina,Mammal,Seal,Harbor Seal,macrocarnivore,Nontargeted
+Pholidae,.,spp,NA,Fish,Gunnel,Unknown Gunnel,microcarnivore,Nontargeted
+Pholidae,Xererpes,fucorum,Xererpes fucorum,Fish,Gunnel,Rockweed Gunnel,microcarnivore,Nontargeted
+Platyrhinidae,Platyrhinoidis,triserata,Platyrhinoidis triserata,Fish,Ray,Thornback Ray,macrocarnivore,Nontargeted
+Pleurobrachidae,Pleurobrachia,bachei,Pleurobrachia bachei,Invertebrate,Ctenophore,Sea Gooseberry,planktivore,Nontargeted
+Pleuronectidae,Hippoglossus,stenolepis,Hippoglossus stenolepis,Fish,Flatfish,Pacific Halibut,macrocarnivore,Nontargeted
+Pleuronectidae,Microstomus,pacificus,Microstomus pacificus,Fish,Flatfish,Dover Sole,microcarnivore,Targeted
+Pleuronectidae,.,spp,NA,Fish,Flatfish,Unknown Flatfish,microcarnivore,Targeted
+Pleuronectidae,Platichthys,stellatus,Platichthys stellatus,Fish,Flatfish,Starry Flounder,microcarnivore,Targeted
+Pleuronectidae,Psettichthys,melanostictus,Psettichthys melanostictus,Fish,Flatfish,Pacific Sand Sole,microcarnivore,Targeted
+Pyrosomatidae,Pyrosoma,spp,Pyrosoma spp,Invertebrate,Prysosome,Unknown Prysosome,planktivore,Nontargeted
+Rajidae,Raja,inornata,Raja inornata,Fish,Skate,California Skate,macrocarnivore,Nontargeted
+Rhinobatidae,Zapteryx,exasperata,Zapteryx exasperata,Fish,Guitarfish,Banded Guitarfish,macrocarnivore,Nontargeted
+Sciaenidae,Genyonemus,lineatus,Genyonemus lineatus,Fish,Croaker,White Croaker,macrocarnivore,Targeted
+Sebastidae,Sebastes,atrovirens,Sebastes atrovirens,Fish,Rockfish,Kelp Rockfish,macrocarnivore,Targeted
+Sebastidae,Sebastes,chrysomelas,Sebastes chrysomelas,Fish,Rockfish,Black-and-Yellow Rockfish,macrocarnivore,Targeted
+Sebastidae,Sebastes,mystinus,Sebastes mystinus,Fish,Rockfish,Blue Rockfish,macrocarnivore,Targeted
+Sebastidae,Sebastes,rastrelliger,Sebastes rastrelliger,Fish,Rockfish,Grass Rockfish,macrocarnivore,Targeted
+Sebastidae,Sebastes,spp,Sebastes spp,Fish,Rockfish,Unknown Rockfish,macrocarnivore,Targeted
+Serranidae,Paralabrax,clathratus,Paralabrax clathratus,Fish,Bass,Kelp Bass,macrocarnivore,Targeted
+Sphyraenidae,Sphyraena,argentea,Sphyraena argentea,Fish,Barracuda,Pacific Barracuda,piscivore,Nontargeted
+Syngnathidae,Syngnathus,californiensis,Syngnathus californiensis,Fish,Pipefish,Kelp Pipefish,planktivore,Nontargeted
+Triakidae,Mustelus,californicus,Mustelus californicus,Fish,Shark,Grey Smoothhound Shark,macrocarnivore,Nontargeted
+Triakidae,Triakis,semifasciata,Triakis semifasciata,Fish,Shark,Leopard Shark,macrocarnivore,Targeted
+Ulmaridae,Aurelia,aurita,Aurelia aurita,Invertebrate,Jellyfish,Moon Jellyfish,microcarnivore,Nontargeted
